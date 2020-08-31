@@ -1,5 +1,4 @@
-# 314965914 
-# gantzei
+
 compile: bin
 	javac -cp biuoop-1.4.jar:src -d bin src/*.java src/Ass7Game.java
 run:
