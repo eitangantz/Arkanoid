@@ -1,6 +1,6 @@
 
 compile: bin
-	javac -cp biuoop-1.4.jar:src -d bin src/*.java src/Ass7Game.java
+	javac -cp biuoop-1.4.jar -d bin src/*.java src/Ass7Game.java
 run:
 	java -cp biuoop-1.4.jar:bin:resources Ass7Game 
 jar:
